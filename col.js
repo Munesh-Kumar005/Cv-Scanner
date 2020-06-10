@@ -2,21 +2,21 @@ console.log("This is my index.js");
 // Data is an array of objects which contains information about the candidates
 const data = [
     {
-        name: 'Rohan Das',
+        name: 'Munesh kumar',
         age: 18,
-        city: 'Kolkata',
+        city: 'Hyderabad',
         language: 'Python',
         framework: 'Django',
-        image: 'https://randomuser.me/api/portraits/men/51.jpg'
+        image: 'https://randomuser.me/api/portraits/men/60.jpg'
     },
 
     {
-        name: 'Shubham Sharma',
+        name: 'Lalwani',
         age: 28,
-        city: 'Bangalore',
+        city: 'Karachi',
         language: 'JavaScript',
         framework: 'Angular',
-        image: 'https://randomuser.me/api/portraits/men/54.jpg'
+        image: 'https://randomuser.me/api/portraits/men/59.jpg'
     },
 
     {
@@ -29,18 +29,18 @@ const data = [
     },
 
     {
-        name: 'Aishwariya Rai',
+        name: 'Sameer kumar',
         age: 45,
-        city: 'Mumbai',
+        city: 'Kotri',
         language: 'Python',
         framework: 'Flask',
-        image: 'https://randomuser.me/api/portraits/women/57.jpg'
+        image: 'https://randomuser.me/api/portraits/women/61.jpg'
     },
 
     {
-        name: 'Rohit Sharma',
+        name: 'Sherish kumar',
         age: 34,
-        city: 'Jharkhand',
+        city: 'Lahore',
         language: 'Go',
         framework: 'Go Framework',
         image: 'https://randomuser.me/api/portraits/men/61.jpg'
